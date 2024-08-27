@@ -33,7 +33,7 @@ Extra
 
 GitHub Pages
 
---> (https://github.com/Moraisintp/decodificador-alura-oracle)/
+--> (https://Moraisintp/decodificador-alura-oracle)/
 
 Badge pela Conclusão do Desafio
 ---

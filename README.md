@@ -26,9 +26,6 @@ Funcionalidade:
 - Não devem ser utilizados letras com acentos nem caracteres especiais, por exlemplo: ponto, vírgula, hastag, arroba, entre outros
 - É possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.
 
-Por exemplo:
-"gato" => "gaitober"
-gaitober" => "gato"
 
 Extra
 ---
@@ -36,7 +33,7 @@ Extra
 
 GitHub Pages
 
---> https://moisesventtura.github.io/decodificador-alura/
+--> (https://github.com/Moraisintp/decodificador-alura-oracle)/
 
 Badge pela Conclusão do Desafio
 ---
